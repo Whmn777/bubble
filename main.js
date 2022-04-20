@@ -28,5 +28,5 @@ const bubbleMaker = () => {
         bubble.remove();
     }, 8000);
 }
-//Créer une bulle toutes les 3 secondes
+//Créer une bulle toutes les secondes
 setInterval(bubbleMaker, 1000);
