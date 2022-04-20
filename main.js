@@ -30,3 +30,5 @@ const bubbleMaker = () => {
 }
 //Créer une bulle toutes les secondes
 setInterval(bubbleMaker, 1000);
+
+// Fin
